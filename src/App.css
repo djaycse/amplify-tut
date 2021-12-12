@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+th {
+  font-size:60%;
+  padding: 1px;
+}
+
+td {
+  font-size:50%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+/* tr:nth-child(even) {
+  background-color: #181bb6;
+} */
