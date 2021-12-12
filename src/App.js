@@ -52,7 +52,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Coming soon...</h2>
-        Leave a note:
+
+        {/* Leave a note:
         <input
           onChange={(e) => setFormData({ ...formData, name: e.target.value })}
           placeholder="Your name"
@@ -84,7 +85,7 @@ function App() {
               </tr>
             ))}
           </table>
-        </div>
+        </div> */}
       </header>
     </div>
   );
